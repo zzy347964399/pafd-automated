@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T14:30:44.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="lGNRNwfPmsmzN7bVOQAV" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T14:30:52.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="z2u7N7N1NnhP9WxA4AeG" version="22.1.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="668" dy="5723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="5381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -259,10 +259,10 @@
         </mxCell>
         <object label="&lt;b&gt;商品&lt;/b&gt;" id="zHlE6_r6prWZN4EpeiVe-0">
           <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="1060" y="-180" width="170" height="230" as="geometry" />
+            <mxGeometry x="360" y="-50" width="170" height="230" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="zHlE6_r6prWZN4EpeiVe-1" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zHlE6_r6prWZN4EpeiVe-0" vertex="1">
+        <mxCell id="zHlE6_r6prWZN4EpeiVe-1" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontStyle=4" parent="zHlE6_r6prWZN4EpeiVe-0" vertex="1">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="zHlE6_r6prWZN4EpeiVe-2" value="Category" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zHlE6_r6prWZN4EpeiVe-0" vertex="1">
@@ -342,7 +342,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="auKf7v6juUtQ2hiqWVoD-54" value="杀杀杀" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Jk1Ubr1bDs1-njulUNPM-9">
+        <mxCell id="auKf7v6juUtQ2hiqWVoD-54" value="杀杀杀" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="Jk1Ubr1bDs1-njulUNPM-9">
           <mxGeometry x="-0.1669" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
